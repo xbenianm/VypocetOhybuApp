@@ -1,0 +1,20 @@
+[user]
+    name = Matus Benian
+    email = benianmatus@gmail.com
+
+[core]
+    editor = code --wait
+    autocrlf = true
+
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    ci = commit
+    lg = log --oneline --graph --all
+
+[merge]
+    tool = meld
+
+[diff]
+    tool = meld
